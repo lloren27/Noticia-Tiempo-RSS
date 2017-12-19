@@ -1,0 +1,28 @@
+body{
+
+background-image: url(fondo.jpg);
+background-size: cover;
+
+}
+h1{
+
+  color:#F8F8FF;
+  text-align: center;
+
+}
+h2{
+
+  color:#FFA500;
+  text-align: center;
+  font-size: 7;
+
+}
+p{
+    text-align: center;
+}
+img{
+
+border: #FFFFFF 5px solid;
+border-image-source: url ("yo.png");
+
+}
